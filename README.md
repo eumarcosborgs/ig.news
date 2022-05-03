@@ -83,12 +83,6 @@ $ yarn dev
 
 # The server will initialize in the <http://localhost:3000>
 ```
-<h1 align="center">
-    <img alt = "Web app" src = "./gihub/Screenshot_1" width = "750px" />
-    <img alt = "Web app" src = "./gihub/Screenshot_5" width = "750px" />
-    <img alt = "Web app" src = "./gihub/Screenshot_6" width = "750px" />
-    <img alt = "Web app" src = "./gihub/Screenshot_4" width = "750px" />
-</h1>
 
 ## 📝 Licença
 
