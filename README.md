@@ -9,10 +9,6 @@
 
   <img alt="Language count" src="https://img.shields.io/github/repo-size/eumarcosborgs/ignews"/>
 
-  <a href="https://rocketseat.com.br">
-    <img alt="Made by Rocketseat" src="https://img.shields.io/eumarcosborgs/made%20by-Rocketseat-%237519C1">
-  </a>
-
   <a href="https://www.linkedin.com/in/eumarcosborgs/">
     <img alt="Made by eumarcosborgs" src="https://img.shields.io/badge/made%20by-eumarcosborgs-%237519C1">
   </a>
