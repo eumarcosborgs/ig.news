@@ -7,7 +7,7 @@
   <br>
   <br>
 
-  <img alt="Language count" src="https://img.shields.io/github/repo-size/eumarcosborgs/ignews"/>
+  <img alt="Language count" src="https://img.shields.io/github/repo-size/eumarcosborgs/ig.news"/>
 
   <a href="https://www.linkedin.com/in/eumarcosborgs/">
     <img alt="Made by eumarcosborgs" src="https://img.shields.io/badge/made%20by-eumarcosborgs-%237519C1">
