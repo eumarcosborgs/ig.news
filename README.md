@@ -13,11 +13,11 @@
     <img alt="Made by eumarcosborgs" src="https://img.shields.io/badge/made%20by-eumarcosborgs-%237519C1">
   </a>
 
-  <a href="https://github.com/eumarcosborgs/ignews/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/eumarcosborgs/ignews">
+  <a href="https://github.com/eumarcosborgs/ig.news/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/eumarcosborgs/ig.news">
   </a>
 
-  <img alt="License" src="https://img.shields.io/github/license/eumarcosborgs/ignews">
+  <img alt="License" src="https://img.shields.io/github/license/eumarcosborgs/ig.news">
 </p>
 
 ---
@@ -64,10 +64,10 @@ As seguintes tecnologias foram utilizadas no projeto:
 
 ```bash
 # Clone this project
-$ git clone https://github.com/eumarcosborgs/ignews
+$ git clone https://github.com/eumarcosborgs/ig.news
 
 # Access
-$ cd ignews
+$ cd ig.news
 
 # Install dependencies
 $ yarn
